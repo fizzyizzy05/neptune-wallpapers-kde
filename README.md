@@ -10,7 +10,7 @@ This is the main wallpaper submitted as part of the contest. It features multipl
 ![Neptune Dark](NeptuneScreenshots/NeptuneDark.png)
 ### Colour Variants
 In addition to the primary blue colour, teal, orange and purple versions are available. I'm not officially submitting these as part of the contest, but they are there, and I don't have an issue with them being Teal as secondary options.
-#### Neptune Green
+#### Neptune Teal
 ##### Light
 ![Light](NeptuneScreenshots/NeptuneTealLight.png)
 #### Dark
