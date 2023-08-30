@@ -4,6 +4,7 @@ I designed these wallpapers as part of the KDE Plasma 6 wallpaper competition. N
 ## Wallpapers
 ### Neptune (main)
 This is the main wallpaper submitted as part of the contest. It features multiple shades of blue that come together to form a cohesive abstract orb - the name Neptune comes from Neptune being "*the blue planet*". It is available in light mode and dark mode.
+![Neptune Light](NeptuneScreenshots/NeptuneLight.png)
 ### Colour Variants
 In addition to the primary blue colour, green, orange and purple versions are available. I'm not officially submitting these as part of the contest, but they are there, and I don't have an issue with them being submitted as secondary options.
 ### Vertical options
