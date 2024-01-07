@@ -1,4 +1,6 @@
 # Neptune Wallpapers
+## Archival
+I'm archiving this repository, as the wallpapers weren't selected, and I have no intention to work on them and I don't even use KDE Plasma anymore. If someone else wants to take them and work on them, please do so.
 ## About these wallpapers
 I designed these wallpapers as part of the KDE Plasma 6 wallpaper competition. Neptune is designed to convey the theme of "**new beginnings**", which stems from the stated themes of trustworthiness, personal growth, and a reflection of me by being a new frontier that avoids the mistakes of the past and can be made into anything you want. It is designed with a glowing orb facing down at the bottom of the screen, highlighting the new floating-by-default panel in Plasma 6.
 ## Wallpapers
